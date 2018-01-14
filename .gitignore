@@ -1,0 +1,13 @@
+.idea/
+out
+*.xml
+*.iml
+*.json
+.DS_Store
+*.log
+
+.gradle
+**/build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
